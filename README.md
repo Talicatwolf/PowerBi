@@ -6,3 +6,6 @@ Meus projetos de PowerBI da DIO
 
 ### Primeiro_grafico
 https://powerbidocs.com/wp-content/uploads/2021/01/global_superstore_2016.xlsx
+
+### Segundo_grafico
+https://powerbidocs.com/wp-content/uploads/2021/01/global_superstore_2016.xlsx
